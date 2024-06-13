@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Practice-Blog/static/css/main.7be74f38.css",
+    "main.js": "/Practice-Blog/static/js/main.d516e5cb.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/Practice-Blog/static/media/fontawesome-webfont.6878d55e3615ccf40c38.svg",
+    "static/media/fontawesome-webfont.eot": "/Practice-Blog/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/Practice-Blog/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/Practice-Blog/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/Practice-Blog/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "index.html": "/Practice-Blog/index.html",
+    "main.7be74f38.css.map": "/Practice-Blog/static/css/main.7be74f38.css.map",
+    "main.d516e5cb.js.map": "/Practice-Blog/static/js/main.d516e5cb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7be74f38.css",
+    "static/js/main.d516e5cb.js"
+  ]
+}
